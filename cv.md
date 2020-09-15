@@ -44,6 +44,7 @@ const wizard2 = new Wizard('Shawn', 'Dark Magic');
 ```
 
 6. Studied Udemy course named: **_The Complete Web Developer in 2020: Zero to Mastery_**.
+I have no job experience yet.
 
 7. Right now I am the 3rd year student of Business Information Systems at the Univerity of Westminster in Tashkent.
 
