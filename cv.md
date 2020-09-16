@@ -1,6 +1,6 @@
-# My CV
 
-1. Name: Kayumkhodjaev Azamat
+
+# Kayumkhodjaev Azamat
 
 2. Contact information: 
    
