@@ -36,4 +36,6 @@ Bachelor of Business Information Systems
 ### **Level of English**
 
  **B2 (Upper-Intermediate).**
+ 
+ 
  Started learning English when I was a kid and continuosly practiced.
