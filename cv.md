@@ -27,7 +27,8 @@ Westminster University in Tashkent
 Bachelor of Business Information Systems
 2018-2022
  
- #### **Self education**
+#### **Self education**
+
  -_The Complete Web Developer in 2020: Zero to Mastery_.
 
 
